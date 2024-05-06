@@ -1,2 +1,1 @@
-# KNN-CropHealthAssessment
-KNN Implementation Test
+# CropHealthAsssessment
